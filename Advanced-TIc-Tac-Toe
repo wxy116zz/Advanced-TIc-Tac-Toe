@@ -1,7 +1,7 @@
 
 //  Tic-Tac-Toe Part2
 //  Created by Jun ShangGuan.
-// For this assignment, I finish all requirements and two extra bonus challenges. At first running the code, you cann't load saved game cause there's no previous game record. After you first save game, you can load it at next time.
+// At first running the code, you cann't load saved game cause there's no previous game record. After you first save game, you can load it at next time.
 
 
 #include <iostream>
